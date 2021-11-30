@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 packages to &apos;AulaInterfaceComParamentros/src&apos;&#x0D;&#x0A;- Original project: &apos;AulaInterface&apos;&#x0D;&#x0A;- Destination element: &apos;AulaInterfaceComParamentros/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     AulaInterface/src/classes&#x0D;&#x0A;     AulaInterface/src/constantes&#x0D;&#x0A;     AulaInterface/src/Interfaces&#x0D;&#x0A;     AulaInterface/src/principal" description="Copy packages" destination="=AulaInterfaceComParamentros/src" element1="/src&lt;classes" element2="/src&lt;constantes" element3="/src&lt;Interfaces" element4="/src&lt;principal" flags="589830" fragments="4" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1630591608456" version="1.0"/>
+</session>

@@ -1,0 +1,10 @@
+package classes;
+
+public class Disciplinas {
+	
+	
+	
+	private String nomeDiscipla;
+	private double notas;
+
+}

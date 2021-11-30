@@ -1,0 +1,8 @@
+package classes.Interfaces;
+
+public interface PermitirAcesso {
+	
+	
+	public boolean autenticar();
+
+}

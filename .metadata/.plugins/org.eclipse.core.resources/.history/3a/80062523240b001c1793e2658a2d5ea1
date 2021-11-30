@@ -1,0 +1,13 @@
+package classes;
+
+public class Pessoa {
+
+	private String Nome;
+	private int idade;
+	private String DataNascimento;
+	private String RG;
+	private String CPF;
+	private String nomePAi;
+	private String nomeMae;
+	
+}

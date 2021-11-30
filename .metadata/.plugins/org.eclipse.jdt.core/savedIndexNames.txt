@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+D:\Curso Java - JDevTreinamento\modulo10\.metadata\.plugins\org.eclipse.jdt.core
+1300323104.index
+497255066.index
+3175369676.index
+3944537515.index
+877694172.index
+2605260627.index
+2636589797.index
+1137015351.index
+167620190.index

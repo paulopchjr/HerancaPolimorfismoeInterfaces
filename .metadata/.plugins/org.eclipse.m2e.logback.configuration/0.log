@@ -1,0 +1,12 @@
+2021-09-01 09:21:41,099 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-01 11:37:55,909 [main] INFO  org.eclipse.jetty.server.Server - jetty-10.0.5; built: 2021-06-11T14:18:43.438Z; git: dc21b2d73cafd78a56e8e532cf50863739bd7027; jvm 16.0.1+9-24
+2021-09-01 11:37:55,968 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2021-09-01 11:37:56,022 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@58f3e71f{/wse,null,AVAILABLE}
+2021-09-01 11:37:56,071 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5544ef09{HTTP/1.1, (http/1.1)}{0.0.0.0:53708}
+2021-09-01 11:37:56,205 [main] INFO  org.eclipse.jetty.server.Server - Started Server@48ea03d0{STARTING}[10.0.5,sto=0] @8211183ms
+2021-09-01 12:06:25,523 [Framework stop - Equinox Container: b8541a36-6a58-4842-8be1-8e919ca50e03] INFO  org.eclipse.jetty.server.Server - Stopped Server@48ea03d0{STOPPING}[10.0.5,sto=0]
+2021-09-01 12:06:25,530 [Framework stop - Equinox Container: b8541a36-6a58-4842-8be1-8e919ca50e03] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5544ef09{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2021-09-01 12:06:25,578 [Framework stop - Equinox Container: b8541a36-6a58-4842-8be1-8e919ca50e03] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@58f3e71f{/wse,null,STOPPED}
+2021-09-01 13:08:12,759 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-02 10:13:27,581 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-09-02 10:18:11,800 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

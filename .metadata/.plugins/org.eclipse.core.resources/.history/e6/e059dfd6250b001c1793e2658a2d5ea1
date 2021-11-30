@@ -1,0 +1,45 @@
+package classes;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Aluno {
+
+	private String DataMatricula;
+	private String NomeEscola;
+	private String Serie;
+
+	List<Disciplinas> listaDisciplina = new ArrayList<Disciplinas>();
+
+	public String getDataMatricula() {
+		return DataMatricula;
+	}
+
+	public void setDataMatricula(String dataMatricula) {
+		DataMatricula = dataMatricula;
+	}
+
+	public String getNomeEscola() {
+		return NomeEscola;
+	}
+
+	public void setNomeEscola(String nomeEscola) {
+		NomeEscola = nomeEscola;
+	}
+
+	public String getSerie() {
+		return Serie;
+	}
+
+	public void setSerie(String serie) {
+		Serie = serie;
+	}
+
+	public List<Disciplinas> getListaDisciplina() {
+		return listaDisciplina;
+	}
+
+	public void setListaDisciplina(List<Disciplinas> listaDisciplina) {
+		this.listaDisciplina = listaDisciplina;
+	}
+}

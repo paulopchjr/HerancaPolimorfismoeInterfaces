@@ -1,0 +1,22 @@
+package principal;
+
+import classes.Aluno;
+import classes.Diretor;
+
+public class TesttandoClassesfilhas {
+	
+	
+	public static void main(String[] args) {
+		
+		Aluno aluno = new Aluno();
+		
+		aluno.setNome("Paulo");
+		
+		
+		Diretor diretor = new Diretor();
+		
+		diretor.setNome("Fulano");
+		diretor.setRegistroEducacao("65545454541");
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;Poliformismo/src&apos;&#x0D;&#x0A;- Original project: &apos;Abstracao&apos;&#x0D;&#x0A;- Destination element: &apos;Poliformismo/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Abstracao/src/classes&#x0D;&#x0A;     Abstracao/src/principal&#x0D;&#x0A;     Abstracao/src/constantes" description="Copy packages" destination="=Poliformismo/src" element1="/src&lt;classes" element2="/src&lt;principal" element3="/src&lt;constantes" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1630523455530" version="1.0"/>
+</session>

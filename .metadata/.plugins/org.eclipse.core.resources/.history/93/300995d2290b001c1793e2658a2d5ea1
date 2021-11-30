@@ -1,0 +1,10 @@
+package constantes;
+
+public class StatusAluno {
+
+	
+	String APROVADO = "Aprovado";
+	String RECUPERACAO = "Recuperação";
+	String REPROVADO = "Reprovado";
+	
+}

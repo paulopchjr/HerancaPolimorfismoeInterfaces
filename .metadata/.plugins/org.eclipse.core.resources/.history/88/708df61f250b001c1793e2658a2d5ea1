@@ -1,0 +1,16 @@
+package classes;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Aluno {
+	
+	private String DataMatricula;
+	private String NomeEscola;
+	private String Serie;
+	
+	
+	
+	List<Disciplinas>listaDisciplina = new ArrayList<Disciplinas>(); 
+
+}
